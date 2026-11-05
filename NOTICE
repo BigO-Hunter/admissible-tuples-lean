@@ -1,0 +1,5 @@
+Admissible prime constellations: Lean formalization
+Concepts and computed values per Hardy-Littlewood (1922), T. J. Engelsma (2005),
+T. Oliveira e Silva (https://sweet.ua.pt/tos/apc.html), OEIS A020497.
+Lean code: MultiAgency (darkhipo), 2026. MIT licensed; see LICENSE.
+Built with Lean 4 v4.34.1 and Mathlib (rev d13f23b7).
