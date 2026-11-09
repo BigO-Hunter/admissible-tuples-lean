@@ -112,3 +112,19 @@ The mathematical objects and the D(k) values originate with:
 
 The Lean formalization, the checker-completeness argument, and the proof-producing
 exhaustive search are original work by MultiAgency (darkhipo), November 2026.
+
+---
+
+## Why this repo is up
+
+Reproducible verified bounds: the wheel-admissibility checker and exact minimal diameters D(k) for k ≤ 7 are kernel-checked evidence anyone can rerun — public goods for the Big O Speedrun community.
+
+[BigO-Hunter](https://github.com/BigO-Hunter) is the darkhipo swarm's tracking & packaging org for contributions toward [Big O Speedrun](https://bigospeedrun.com) — a companion, never the project. Org story: [profile](https://github.com/BigO-Hunter/.github) · [bigo-hunter.github.io](https://bigo-hunter.github.io).
+
+## What work can be done here
+
+The k ≤ 7 results are complete and kernel-checked. Open work: extend the wheel checker to k ≥ 8 constellations, rerun under newer toolchains, and package further exact diameters.
+
+## License
+
+Licensed under MIT — see [LICENSE](LICENSE)., with vendored portions named in [NOTICE](NOTICE.md) keeping their upstream licenses
