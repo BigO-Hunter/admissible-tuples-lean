@@ -127,4 +127,4 @@ The k ≤ 7 results are complete and kernel-checked. Open work: extend the wheel
 
 ## License
 
-Licensed under MIT — see [LICENSE](LICENSE)., with vendored portions named in [NOTICE](NOTICE.md) keeping their upstream licenses
+Licensed under the Copy-Free/Stays-Free (CFSF) License — see [LICENSE](LICENSE) ([github.com/darkhipo/cfsf](https://github.com/darkhipo/cfsf)).
